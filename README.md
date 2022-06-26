@@ -1,27 +1,10 @@
-# DigitalBankingWeb
-
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.3.3.
-
-## Development server
-
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
-
-## Code scaffolding
-
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
-
-## Build
-
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
-
-## Running unit tests
-
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
-
-## Running end-to-end tests
-
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+<h1>Page Home</h1>
+<img width="948" alt="1" src="https://user-images.githubusercontent.com/103775572/175828263-4bcecf8a-8d16-41c6-aad0-848b87c925f7.PNG">
+<h1>Search customers</h2>
+<img width="931" alt="2" src="https://user-images.githubusercontent.com/103775572/175828265-7a1f4026-5685-4208-982a-a48978bbc523.PNG">
+<h1>Add customers</h1>
+<img width="935" alt="3" src="https://user-images.githubusercontent.com/103775572/175828266-622b24bf-dc44-4bf5-ac0c-57891ae3f67c.PNG">
+<h1>Search Account By ID</h1>
+<img width="942" alt="4" src="https://user-images.githubusercontent.com/103775572/175828267-a80ad5e4-bfc4-49a9-8951-429e0f8f2955.PNG">
+<h1>Infos customer-accounts</h1>
+<img width="937" alt="5" src="https://user-images.githubusercontent.com/103775572/175828268-0715fda8-9734-4600-a206-7dcbf7ffb0d5.PNG">
